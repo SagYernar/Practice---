@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class RangeOfArray
+    public class RangeOfArray
     {
 
         private int[] rangeOfArray;
